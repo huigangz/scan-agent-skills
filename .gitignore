@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyc.*
+.pytest_cache/
+.pytest-runtime/
+.pytest-tmp/
+.agents/
+PLAN_SPEC.md
+COMPARISON.md
+BUGFIX_PLAN.md
+README.md
+docs/superpowers/
+docs/worklog/
